@@ -1,0 +1,12 @@
+why javascript
+what is ecma and ecmascript
+history of ecma script
+datatypes
+== vs ===
+dom 
+how to create self incokin gfunctions
+function scope
+difference btw let, var and const 
+use of strict
+json / AJAX
+generator
