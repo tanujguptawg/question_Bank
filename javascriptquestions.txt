@@ -11,3 +11,4 @@ use of strict
 json / AJAX
 generator
 oops concepts in javascript
+destructuring 
