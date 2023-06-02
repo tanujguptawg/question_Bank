@@ -1,0 +1,9 @@
+what is angular
+code flow of angular
+local vs session
+promise vs observable vs subject
+forms
+pipeline
+lifecycle hook and their order 
+pipeline 
+testing 
