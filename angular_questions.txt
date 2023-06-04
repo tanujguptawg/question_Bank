@@ -1,9 +1,11 @@
 what is angular
+jit vs aot
 code flow of angular
 local vs session
 promise vs observable vs subject
 forms
 pipeline
 lifecycle hook and their order 
-pipeline 
 testing 
+5 files in actual index.html
+use of services
