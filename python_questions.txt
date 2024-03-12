@@ -1,0 +1,4 @@
+interpreted or compiled
+is python object oriented programming language
+what is use of decorators
+keywords in python
